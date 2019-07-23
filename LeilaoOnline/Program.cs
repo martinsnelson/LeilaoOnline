@@ -6,7 +6,9 @@ namespace LeilaoOnline
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //LeilaoComVariosLances();
+            //LeilaoComApenasUmLance();
+            Console.ReadKey();
         }
     }
 }
